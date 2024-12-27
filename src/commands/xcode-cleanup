@@ -18,3 +18,4 @@ case $1 in
 esac
 
 xcrun simctl delete unavailable
+xcrun simctl --set previews delete all
